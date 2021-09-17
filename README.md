@@ -1,3 +1,1 @@
-Thinks for a while*<br>
-Slams keyboard*<br>
-✨ Self playing flappy bird !✨
+RL techniques to make a self playing flappy bird
