@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+* {
+    overflow: hidden;
+    margin-top: 8;
+    padding-top: 0;
+}
+
+body {
+    background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://i.pinimg.com/originals/a0/10/96/a01096406d987a54c14d498a6b420960.png");
+    background-size: auto;
+    align-items: center;
+    color: #222;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Open Sans', 'Arial', sans-serif;
+    min-height: 100vh;
+    justify-content: flex-start;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+p {
+    margin: 10px;
+}
+
+canvas {
+    margin-top: 10px;
+}
