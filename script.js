@@ -12,6 +12,10 @@ let img;
 let myFont;
 let clickCount = 0;
 
+window.onload = function() {
+    document.getElementById("tah_audio").play();
+}
+
 window.onclick = function() {
     if (clickCount == 0)
         alert("Pls let the game learn at max speed for some time to see improvements");
