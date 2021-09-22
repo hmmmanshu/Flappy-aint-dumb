@@ -1,4 +1,4 @@
-const SCREEN_SIZE = Math.min(700, window.innerWidth);
+const SCREEN_SIZE = Math.min(1000, window.innerWidth);
 const TOTAL_BIRDS = 350;
 const imgSrc = 'https://image.ibb.co/jS0zTc/bird.png';
 let birds = [];
@@ -25,7 +25,7 @@ function preload() {
 }
 
 function setup() {
-    createCanvas(SCREEN_SIZE, 3 * SCREEN_SIZE / 4);
+    createCanvas(SCREEN_SIZE, 3 * SCREEN_SIZE / 5.5);
     p = createP('Adjust learning rate:');
     p.style('color', '#fff');
     slider = createSlider(1, 100, 1, 1);
