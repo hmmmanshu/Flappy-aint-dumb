@@ -1,7 +1,6 @@
-# Flappy Bird but automatic
+# Flappy Bird - Reinforced
 
 **[Demo](https://bot-7037.github.io/Flappy-aint-dumb/)**
-___
 
 ## Task:
 Learn and use genetic algorithm to automate the the classic Flappy Bird game, and produce a webapp.
